@@ -31,7 +31,7 @@
 
   <h3>🗄️ Databases</h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=8" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,neo4j&perline=8" />
     <br />
   
   </div>
