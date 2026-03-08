@@ -1,10 +1,18 @@
-<h1 align="center">Hello, World! 👋 I am <strong>Nithin</strong></h1>
+<h1 align="center">
+Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px">
+𝗡𝗜𝗧𝗛𝗜𝗡 𝗩𝗘𝗡𝗞𝗔𝗧 𝗦𝗛𝗔𝗥𝗠𝗔 𝗣 𝗠
+</h1>
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;RAG+Systems+Explorer;Tech+Tinkerer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Real+Products;Problem+Solver;Learning+Something+New+Every+Day;Building.+Breaking.+Improving."
   />
 </div>
+
+## 📌 About Me
+- 🧠 Problem solver who enjoys turning ideas into working code.
+- 🚀 Always exploring new technologies and improving development skills.
+- 🐛 Debugging today so tomorrow’s code runs perfectly (hopefully).
 
 ---
 
@@ -26,7 +34,7 @@
 
   <h3>🛠️ Tools & Technologies</h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,figma,postman,linux,arduino&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,figma,postman,linux,vscode,vite,ubuntu,arduino&perline=8" />
   </div>
 
   <h3>🗄️ Databases</h3>
@@ -37,19 +45,27 @@
   </div>
 </div>
 
----
 
-<h2 align="center">📊 GitHub Stats</h2>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NITHIN0306&theme=nightowl&hide_border=true&cache_seconds=86400" alt="NITHIN0306's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=NITHIN0306&theme=nightowl&radius=10" alt="NITHIN0306's Activity Graph" />
+</p>
+
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin0306&theme=github-dark&radius=16" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<h3 align="center">🔥 My Streak</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nithin0306&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
 
----
 
 
