@@ -1,6 +1,5 @@
 <h1 align="center">
-Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px">
-𝗡𝗜𝗧𝗛𝗜𝗡 𝗩𝗘𝗡𝗞𝗔𝗧 𝗦𝗛𝗔𝗥𝗠𝗔 𝗣 𝗠
+Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm 𝙉𝙞𝙩𝙝𝙞𝙣 Venkat Sharma P M
 </h1>
 
 <div align="center">
